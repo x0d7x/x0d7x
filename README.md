@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **a.bakider@gmail.com**
 
-- ⚡ Fun fact **coding is hard :)**
+- ⚡ Fun fact **coding is Easy :)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
