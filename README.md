@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d7mandev&label=Profile%20views&color=0e75b6&style=flat" alt="d7mandev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/d7g_x" target="blank"><img src="https://img.shields.io/twitter/follow/x0id7?logo=twitter&style=for-the-badge" alt="x0id7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/d7g_x" target="blank"><img src="https://img.shields.io/twitter/follow/x0id7?logo=twitter&style=for-the-badge" alt="d7g_x" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript**
 
@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/x0id7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x0id7" height="30" width="40" /></a>
-<a href="https://instagram.com/o2.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o2.v" height="30" width="40" /></a>
+<a href="https://twitter.com/d7g_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x0id7" height="30" width="40" /></a>
+<a href="https://instagram.com/d7g.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o2.v" height="30" width="40" /></a>
 <a href="https://www.behance.net/0xd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="0xd7" height="30" width="40" /></a>
-<a href="https://discord.gg/d7man#4133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="d7man#4133" height="30" width="40" /></a>
+<a href="https://discord.gg/d7g.x#0044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="d7man#4133" height="30" width="40" /></a>
 <a href="/https://0xd7.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://0xd7.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
