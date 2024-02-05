@@ -1,7 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d7mandev&label=Profile%20views&color=0e75b6&style=flat" alt="d7mandev" /> </p>
+
 <h1 align="center">Hi 👋, I'm d7man</h1>
 <h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d7mandev&label=Profile%20views&color=0e75b6&style=flat" alt="d7mandev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/d7g_x" target="blank"><img src="https://img.shields.io/twitter/follow/x0id7?logo=twitter&style=for-the-badge" alt="d7g_x" /></a> </p>
 <a href="https://app.daily.dev/d7mandev"><img src="https://github.com/d7manDev/d7manDev/blob/master/devcard.svg" width="400" alt="d7manDev's Dev Card"/></a>
