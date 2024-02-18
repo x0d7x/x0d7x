@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
 
 
-<p align="left"> <a href="https://twitter.com/d7g_x" target="blank"><img src="https://img.shields.io/twitter/follow/x0id7?logo=twitter&style=for-the-badge" alt="d7g_x" /></a> </p>
+<p align="left"> <a href="https://twitter.com/d7g_x" target="blank"><img src="https://img.shields.io/twitter/follow/d7g_x?logo=twitter&style=for-the-badge" alt="d7g_x" /></a> </p>
 <a href="https://app.daily.dev/d7mandev"><img src="https://github.com/d7manDev/d7manDev/blob/master/devcard.svg" width="400" alt="d7manDev's Dev Card"/></a>
 
 
