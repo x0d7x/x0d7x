@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3013&pause=1000&color=6289F7&center=true&vCenter=true&random=false&width=435&lines=hi+%F0%9F%91%8B%2C+i'm+d7man+;i'm+a+full+stack+web+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+;any+idea+can+be+a+%3Ccode%2F%3E)](https://git.io/typing-svg)
 
+![Visitor Count](https://profile-counter.glitch.me/{d7manDev}/count.svg)
 
 
 <a href="https://www.x.com/d7g_x" target="_blank" rel="noreferrer"><img
