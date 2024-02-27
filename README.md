@@ -17,9 +17,6 @@
 
 - ⚡ Fun fact **coding is Easy :)**
 
-  </br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3013&pause=1000&color=6289F7&center=true&random=false&width=435&lines=hi+%F0%9F%91%8B%2C+i'm+d7man+;i'm+a+full+stack+web+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+;any+idea+can+be+a+%3Ccode%2F%3E)](https://git.io/typing-svg)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/d7g_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x0id7" height="30" width="40" /></a>
@@ -34,4 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d7mandev&show_icons=true&locale=en&layout=compact" alt="d7mandev" /></p>
 
-
+ </br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3013&pause=1000&color=6289F7&center=true&random=false&width=435&lines=hi+%F0%9F%91%8B%2C+i'm+d7man+;i'm+a+full+stack+web+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+;any+idea+can+be+a+%3Ccode%2F%3E)](https://git.io/typing-svg)
