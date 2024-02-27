@@ -6,7 +6,6 @@
 <a href="https://app.daily.dev/d7mandev"><img src="https://github.com/d7manDev/d7manDev/blob/master/devcard.svg" width="400" alt="d7manDev's Dev Card"/></a>
 
 
-- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/d7manDev](https://github.com/d7manDev)
 
