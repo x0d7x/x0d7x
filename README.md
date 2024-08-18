@@ -3,19 +3,13 @@
 ![Visitor Count](https://profile-counter.glitch.me/{d7manDev}/count.svg)
 
 
-<a href="https://www.x.com/d7g_x" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/d7g_x?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+</br>
 <a href="https://app.daily.dev/d7mandev"><img src="https://api.daily.dev/devcards/v2/jwG9X0ia2.png?type=default&r=3bw" width="356" alt="dox's Dev Card"/></a>
 
 
-
-
-- 💬 Ask me about **Html,Css,JavaScript.**
-
 - 📫 How to reach me **a.bakider@gmail.com**
 
-- ⚡ Fun fact **coding is Easy :)**
+- ⚡ Fun fact **The First Computer “Bug” Was a Real Bug :)**
 
 ### Skills
 
