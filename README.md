@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3013&pause=1000&color=6289F7&center=true&vCenter=true&random=false&width=435&lines=hi+%F0%9F%91%8B%2C+i'm+d7man+;i'm+a+full+stack+web+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+;any+idea+can+be+a+%3Ccode%2F%3E)](https://git.io/typing-svg)
 
-![Visitor Count](https://profile-counter.glitch.me/{d7manDev}/count.svg)
-
-
 </br>
 <a href="https://app.daily.dev/d7mandev"><img src="https://api.daily.dev/devcards/v2/jwG9X0ia2.png?type=default&r=3bw" width="356" alt="dox's Dev Card"/></a>
 
@@ -27,6 +24,6 @@
 <a href="http://www.github.com/d7manDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=d7manDev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/{d7manDev}/count.svg)
 
  
