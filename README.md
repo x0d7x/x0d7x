@@ -6,7 +6,7 @@
 <a href="https://www.x.com/d7g_x" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/d7g_x?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-<a href="https://app.daily.dev/d7mandev" algin="center"><img src="https://github.com/d7manDev/d7manDev/blob/master/devcard.svg" width="400" alt="d7manDev's Dev Card"/></a>
+<a href="https://app.daily.dev/d7mandev"><img src="https://api.daily.dev/devcards/v2/jwG9X0ia2.png?type=default&r=3bw" width="356" alt="dox's Dev Card"/></a>
 
 
 
